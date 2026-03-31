@@ -1,18 +1,52 @@
-## Getting Started
+ 📚 CRUD de Livros - Java (MVC)
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Sobre o projeto
+Este projeto foi desenvolvido com o objetivo de praticar conceitos de arquitetura de software utilizando o padrão MVC (Model-View-Controller).
 
-## Folder Structure
+O sistema permite o gerenciamento de livros através de um menu no terminal.
 
-The workspace contains two folders by default, where:
+---
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+Funcionalidades
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+- ✅ Adicionar livro
+- ✅ Listar livros
+- ✅ Buscar livro por ID
+- 🔄 (em desenvolvimento) Atualizar livro
+- 🔄 (em desenvolvimento) Remover livro
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+---
 
-## Dependency Management
+Arquitetura
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+O projeto foi estruturado utilizando o padrão MVC:
+
+- **Model** → Representa os dados (Livro)
+- **Controller** → Contém a lógica de negócio
+- **View** → Responsável pela interação com o usuário (menu)
+
+---
+
+Tecnologias utilizadas
+
+- Java
+- VS Code
+
+---
+
+Objetivo
+
+Praticar:
+- Programação orientada a objetos
+- Separação de responsabilidades
+- Estruturação de projetos em camadas
+- Lógica de CRUD
+
+---
+
+Status do projeto
+
+🚧 Em desenvolvimento
+
+
+Desenvolvido por Polyana 🚀
